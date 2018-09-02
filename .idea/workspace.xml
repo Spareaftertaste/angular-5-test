@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61469f13-9683-4c5b-b41f-2c494c46c9cf" name="Default Changelist" comment="" />
+    <list default="true" id="61469f13-9683-4c5b-b41f-2c494c46c9cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -104,8 +106,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myApp/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="192">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -160,7 +162,7 @@
       <path value="$PROJECT_DIR$/myApp/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="202" />
     <option name="y" value="97" />
     <option name="width" value="1520" />
@@ -219,7 +221,7 @@
       <option name="presentableId" value="Default" />
       <updated>1535859605245</updated>
       <workItem from="1535859606416" duration="7456000" />
-      <workItem from="1535883736777" duration="1517000" />
+      <workItem from="1535883736777" duration="1761000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1535867536359</created>
@@ -239,10 +241,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8973000" />
+    <option name="totallyTimeSpent" value="9217000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="141" y="158" width="1216" height="684" extended-state="0" />
+    <frame x="162" y="78" width="1216" height="684" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31440678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -257,8 +259,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.32849365" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32849365" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32849365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -343,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myApp/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="192">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
