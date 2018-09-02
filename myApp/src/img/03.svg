@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>03</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.6188616%" id="linearGradient-1">
+            <stop stop-color="#5000FF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#2800FF" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="引导页-首页" transform="translate(-213.000000, -2179.000000)">
+            <g id="板块三" transform="translate(173.000000, 1369.000000)">
+                <g id="33" transform="translate(40.000000, 596.000000)">
+                    <g id="3" transform="translate(0.000000, 214.000000)">
+                        <g id="03">
+                            <circle id="Oval-5" fill="url(#linearGradient-1)" opacity="0.5" cx="21" cy="21" r="21"></circle>
+                            <text font-family="PingFangSC-Medium, PingFang SC" font-size="20" font-weight="400" fill="#654DF0">
+                                <tspan x="9" y="28">03</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

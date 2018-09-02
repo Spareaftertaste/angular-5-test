@@ -1,0 +1,26 @@
+nav {
+  padding: .2rem;
+  background-color: #999; }
+  nav .nav-logo .logo {
+    width: .8rem;
+    height: .6rem; }
+  nav .nav-btn {
+    margin: 0 .3rem;
+    font-size: .22rem;
+    align-items: center; }
+    nav .nav-btn div {
+      margin: 0 .3rem;
+      height: .6rem;
+      line-height: .6rem; }
+    nav .nav-btn .nav-btn-index {
+      border-bottom: 3px white solid; }
+  nav .nav-login div {
+    margin: 0 .2rem;
+    height: .6rem;
+    line-height: .6rem; }
+
+@media all and (min-width: 900px) {
+  nav {
+    color: white; } }
+
+/*# sourceMappingURL=app.component.css.map */
